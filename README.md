@@ -1,1 +1,1 @@
-[https://Svetki.github.io/rsschool-cv/cv](https://Svetki.github.io/rsschool-cv/cv)
+[Calculator](https://svetki.github.io/rsschool-cv/calculator/)
