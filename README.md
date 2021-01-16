@@ -1,1 +1,1 @@
-[https://Svetki.github.io/rsschool-cv/cv](https://Svetki.github.io/rsschool-cv/cv)
+[Markdown & Git](https://Svetki.github.io/rsschool-cv/cv)
