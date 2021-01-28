@@ -1,1 +1,1 @@
-[Calculator](https://svetki.github.io/rsschool-cv/calculator/)
+[Markdown & Git](https://Svetki.github.io/rsschool-cv/cv)
