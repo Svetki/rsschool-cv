@@ -1,1 +1,1 @@
-[Singolo](https://svetki.github.io/rsschool-cv/singolo/)
+[Markdown & Git](https://Svetki.github.io/rsschool-cv/cv)
