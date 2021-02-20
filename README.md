@@ -1,1 +1,1 @@
-[Markdown & Git](https://Svetki.github.io/rsschool-cv/cv)
+[Flex Panel Gallery](https://Svetki.github.io/rsschool-cv/flex-panel-gallery/)
