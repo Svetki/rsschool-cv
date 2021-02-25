@@ -1,1 +1,1 @@
-[HTML, CSS & Git Basics](https://Svetki.github.io/rsschool-cv/)
+[HTML, CSS & Git Basics](https://svetki.github.io/rsschool-cv/rsschool-cv-html/)
